@@ -1,7 +1,7 @@
 # Run with: `python -m unittest discover`
 
 ####################################################################
-# A collection of tests for a solution to Mr Z little problem#
+# A collection of tests for a solution to Mr Little Z problem      #
 #                                                                  #
 # Tests are for solution logic (due to time constrain)             #
 
